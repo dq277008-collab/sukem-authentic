@@ -1,0 +1,1 @@
+Replace logo in assets and deploy.
